@@ -1,0 +1,10 @@
+INDEX VERSION 1.127+/Users/James/Documents/college/Semester 2/CISC 181/Eclipse workspace/.metadata/.plugins/org.eclipse.jdt.core
+904518087.index
+2456390921.index
+2650153986.index
+2227886904.index
+134620329.index
+14677409.index
+381559497.index
+2502948106.index
+2595249153.index

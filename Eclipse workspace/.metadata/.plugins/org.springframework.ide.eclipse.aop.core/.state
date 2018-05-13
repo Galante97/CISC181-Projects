@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="RocketClient"/>
+<aop-project name="LuxorJabber"/>
+<aop-project name="RocketServer"/>
+<aop-project name="RocketBLL"/>
+<aop-project name="LuxorClient"/>
+<aop-project name="RocketDAL"/>
+<aop-project name="RocketJabber"/>
+<aop-project name="LuxorServer"/>
+<aop-project name="LuxorBLL"/>
+</aop-reference-model>

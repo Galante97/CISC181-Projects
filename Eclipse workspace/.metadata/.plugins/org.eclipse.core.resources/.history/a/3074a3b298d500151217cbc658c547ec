@@ -1,0 +1,10 @@
+package MainPackage;
+
+public class class1 {
+	public static void HelloWorld() {
+
+		System.out.println("Hello World");
+
+	}
+	
+}

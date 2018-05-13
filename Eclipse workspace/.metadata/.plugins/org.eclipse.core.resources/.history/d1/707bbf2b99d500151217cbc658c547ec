@@ -1,0 +1,16 @@
+package MainPackage;
+
+import java.io.Console;
+
+public class class1 {
+	public static void func1() {
+
+		Console consoleInput = System.console();
+		System.out.println("Enter a number: ");
+		String s = consoleInput.readLine();
+		int i = Integer.parseInt(consoleInput.readLine());
+		
+		
+	}
+	
+}

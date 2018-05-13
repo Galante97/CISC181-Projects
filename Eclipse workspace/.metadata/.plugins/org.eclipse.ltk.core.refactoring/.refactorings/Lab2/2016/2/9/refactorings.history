@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;pokerClass.java&apos; to &apos;LuxorBLL/src/main/java&apos;&#x0A;- Original project: &apos;LuxorBLL&apos;&#x0A;- Destination element: &apos;LuxorBLL/src/main/java&apos;&#x0A;- Original element: &apos;base.pokerClass.java&apos;" description="Copy compilation unit" destination="/src\/main\/java" element1="/src\/main\/java&lt;base{pokerClass.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1456334934399" units="1" version="1.0"/>
+</session>
